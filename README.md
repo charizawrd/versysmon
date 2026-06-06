@@ -24,7 +24,7 @@ A system monitor for Windows that covers the gaps Task Manager leaves open — p
 - Battery details pulled via WMI: chemistry, voltage, power status, and estimated time remaining.
 
 **UI**
-- Dark mode, system tray support so it can run in the background, and native Windows styling via `pywinstyles`.
+- Acrylic blur window, system tray support so it can run in the background, and native Windows styling via `pywinstyles`.
 
 ---
 
